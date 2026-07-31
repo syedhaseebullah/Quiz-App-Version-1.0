@@ -17,12 +17,12 @@ let quizData = [
     },
     {
         question: "Which is the largest province of Pakistan by area?",
-        options: ["Punjab", "SindhKhyber","Balochistan", "Pakhtunkhwa"],
+        options: ["Punjab", "Sindh","Balochistan", "Khyber Pakhtunkhwa"],
         correct: 2,
     },
     {
         question: "Which is the highest mountain peak in Pakistan?",
-        options: ["K2", "NangaParbat", "BroadPeak", "Rakaposhi"],
+        options: ["K2", "Nanga Parbat", "Broad Peak", "Rakaposhi"],
         correct: 0,
     },
     {
@@ -37,7 +37,7 @@ let quizData = [
     },
     {
         question: "Where is the famous Khewra Salt Mine located in Pakistan?",
-        options: ["Karachi", "Quetta", "Peshawar","Jhelum",],
+        options: ["Karachi", "Quetta", "Peshawar","Jhelum"],
         correct: 3,
     },
     {

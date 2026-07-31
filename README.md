@@ -50,3 +50,10 @@ The core app logic revolves around state management:
 > 
 > - **Self-Written Code:** All JavaScript logic, DOM manipulation techniques, and state validation were hand-written by me to strengthen core fundamentals.
 > - **AI Collaboration:** AI was strictly utilized as a learning mentor—helping me understand concepts, structure README documentation, and debug logic flow, while keeping the actual implementation 100% original."
+
+---
+
+## 🌐 Live Demo
+
+You can try out the live working application here:
+👉 **[Play Pakistan GK Quiz](https://syedhaseebullah.github.io/Quiz-App/)**
