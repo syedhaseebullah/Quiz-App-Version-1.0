@@ -56,4 +56,4 @@ The core app logic revolves around state management:
 ## 🌐 Live Demo
 
 You can try out the live working application here:
-👉 **[Play Pakistan GK Quiz](https://syedhaseebullah.github.io/Quiz-App/)**
+👉 **[Play Pakistan GK Quiz](https://syedhaseebullah.github.io/Quiz-App-Version-1.0/)**
